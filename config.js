@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-const webhookUrl = 'https://discord.com/api/webhooks/1124949150031679549/olXn7g45EWIZLM-uHzNgr6_aTf8ZqSF0F8r6ZLCeEZVX7n15U-aLxQ1q2Vw_TW7Zefg5'; // your webhook
+const webhookUrl = ''; // your webhook
 
 
 
