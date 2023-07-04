@@ -1,7 +1,6 @@
 const fetch = require('node-fetch');
 
-const webhookUrl = ''; // your webhook
-
+const your-image = logger '' ;
 
 
 
